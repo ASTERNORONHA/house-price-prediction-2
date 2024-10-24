@@ -89,7 +89,7 @@ spacy==3.7.5
 anyio==3.7.1
 idna==3.7
 reportlab==3.6.12
-matplotlib==3.6.3
+matplotlib==3.7.1
 nltk==3.6.3
 pyproj==3.6.1
 threadpoolctl==3.5.0
@@ -102,7 +102,7 @@ opt-einsum==3.3.0
 jsonpickle==3.2.2
 XlsxWriter==3.2.0
 jinja2==3.1.4
-pyparsing==3.1.2
+pyparsing==3.0.9
 prompt-toolkit==3.0.47
 spacy-legacy==3.0.12
 openpyxl==3.0.10
@@ -170,7 +170,7 @@ geographiclib==1.52
 mutagen==1.45.1
 PyPDF2==1.28.6
 urllib3==1.26.19
-numpy==1.24.0
+numpy==1.25.0
 jupyter-server==1.23.5
 PyMuPDF==1.21.1
 cffi==1.17.0
@@ -180,7 +180,7 @@ wrapt==1.16.0
 py==1.11.0
 backoff==1.10.0
 yarl==1.9.4
-scipy==1.9.3
+scipy==1.11.2
 wordcloud==1.9.2
 Fiona==1.9.2
 debugpy==1.8.5
@@ -284,7 +284,7 @@ toolz==0.12.1
 cycler==0.12.1
 folium==0.12.1
 matplotlib-venn==0.11.6
-seaborn==0.11.2
+seaborn==0.12.2
 pydyf==0.11.0
 geopandas==0.10.2
 toml==0.10.2
